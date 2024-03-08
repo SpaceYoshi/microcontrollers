@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B1_SPI", "B1_SPI\B1_SPI.cproj", "{3A43F2DC-C964-4283-9557-E9E105BA8E67}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B2_SPI4DigitDisplay", "B2_SPI4DigitDisplay\B2_SPI4DigitDisplay.cproj", "{E735A3E5-0153-4AFF-8F30-70CE937A532A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A43F2DC-C964-4283-9557-E9E105BA8E67}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3A43F2DC-C964-4283-9557-E9E105BA8E67}.Debug|AVR.Build.0 = Debug|AVR
+		{3A43F2DC-C964-4283-9557-E9E105BA8E67}.Release|AVR.ActiveCfg = Release|AVR
+		{3A43F2DC-C964-4283-9557-E9E105BA8E67}.Release|AVR.Build.0 = Release|AVR
+		{E735A3E5-0153-4AFF-8F30-70CE937A532A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E735A3E5-0153-4AFF-8F30-70CE937A532A}.Debug|AVR.Build.0 = Debug|AVR
+		{E735A3E5-0153-4AFF-8F30-70CE937A532A}.Release|AVR.ActiveCfg = Release|AVR
+		{E735A3E5-0153-4AFF-8F30-70CE937A532A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

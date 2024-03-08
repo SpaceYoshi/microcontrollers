@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B2_IOInterrupts", "B2_IOInterrupts\B2_IOInterrupts.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B3_SevenSegment", "B3_SevenSegment\B3_SevenSegment.cproj", "{7C9B12BF-58A4-452E-8E29-6E6C02B7A8C9}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B4_SevenSegmentEffect", "B4_SevenSegmentEffect\B4_SevenSegmentEffect.cproj", "{09C2A3CC-9813-4CEE-9315-91AA345281E0}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "B5_LCDModule", "B5_LCDModule\B5_LCDModule.cproj", "{AC91A382-294B-4BFC-B45E-111879067965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{7C9B12BF-58A4-452E-8E29-6E6C02B7A8C9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7C9B12BF-58A4-452E-8E29-6E6C02B7A8C9}.Debug|AVR.Build.0 = Debug|AVR
+		{7C9B12BF-58A4-452E-8E29-6E6C02B7A8C9}.Release|AVR.ActiveCfg = Release|AVR
+		{7C9B12BF-58A4-452E-8E29-6E6C02B7A8C9}.Release|AVR.Build.0 = Release|AVR
+		{09C2A3CC-9813-4CEE-9315-91AA345281E0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{09C2A3CC-9813-4CEE-9315-91AA345281E0}.Debug|AVR.Build.0 = Debug|AVR
+		{09C2A3CC-9813-4CEE-9315-91AA345281E0}.Release|AVR.ActiveCfg = Release|AVR
+		{09C2A3CC-9813-4CEE-9315-91AA345281E0}.Release|AVR.Build.0 = Release|AVR
+		{AC91A382-294B-4BFC-B45E-111879067965}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AC91A382-294B-4BFC-B45E-111879067965}.Debug|AVR.Build.0 = Debug|AVR
+		{AC91A382-294B-4BFC-B45E-111879067965}.Release|AVR.ActiveCfg = Release|AVR
+		{AC91A382-294B-4BFC-B45E-111879067965}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
