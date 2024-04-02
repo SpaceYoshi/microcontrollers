@@ -8,7 +8,7 @@
 
 void lcd_command(void);
 void init_4bits_mode(void);
-void set_cursor(int position);
+void set_cursor(unsigned int position);
 void display_text(char *str);
 
 #endif /* LCD_H_ */

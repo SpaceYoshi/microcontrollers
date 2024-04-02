@@ -72,7 +72,7 @@ int display_hex(int number) {
 	if (number >= 0 && number < 16) {
 		PORTB = hex_vals[number];
 		return 1;
-		} else {
+	} else {
 		// Display error
 		PORTB = hex_vals[16];
 		return 0;
